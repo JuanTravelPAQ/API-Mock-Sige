@@ -1,0 +1,414 @@
+[
+    {
+    "selecionado": false,
+    "fechaVencimiento": "01/09/2020",
+    "nombre": "AB Ingeniería S.H.",
+    "obligacion": {
+      "tipo_cumplimiento": "Estudio",
+      "organismo_tipo_organismo": "Rentas-IIBB-IIBB local",
+      "obligacion_name": "DDJJ mensual"
+    },
+    "estado": "Cumplido",
+    "novedades": "01/09/2020",
+    "preLiq": "01/09/2020",
+    "envioPreLiq": "01/09/2020",
+    "confirmacion": "01/09/2020",
+    "liqDefinitiva": true,
+    "cumplido": true,
+    "documentos":
+      [
+        {
+          "id": 123,
+          "carga_outsourcing": true,
+          "eliminable": false,
+          "categoria":
+            {
+              "id": "VEP",
+              "nombre":"VEP"
+            },
+          "nombre": "IVA_VEP_Agromalargue_202008",
+          "formato": "PDF",
+          "fecha_carga": "08/09/2020",
+          "url_archivo": "asdasdasdasd"
+        },
+        {
+          "id": 123,
+          "carga_outsourcing": true,
+          "eliminable": false,
+          "categoria":
+            {
+              "id": "ACUSE",
+              "nombre":"Acuse"
+            },
+          "nombre": "IVA_Acuse_Agromalargue_202008",
+          "formato": "PDF",
+          "fecha_carga": "08/09/2020",
+          "url_archivo": "asdasdasdasd"
+        },
+        {
+          "id": 123,
+          "carga_outsourcing": true,
+          "eliminable": false,
+          "categoria":
+            {
+              "id": "ASIENTO",
+              "nombre":"Asiento contable"
+            },
+          "nombre": "IVA_Asiento_Agromalargue_202008",
+          "formato": "PDF",
+          "fecha_carga": "08/09/2020",
+          "url_archivo": "asdasdasdasd"
+        },
+        {
+          "id": 123,
+          "carga_outsourcing": true,
+          "eliminable": false,
+          "categoria":
+            {
+              "id": "DDJJ",
+              "nombre":"DDJJ"
+            },
+          "nombre": "DDJJ_Agromalargue_202008",
+          "formato": "PDF",
+          "fecha_carga": "08/09/2020",
+          "url_archivo": "asdasdasdasd"
+        },
+        {
+          "id": 123,
+          "carga_outsourcing": true,
+          "eliminable": false,
+          "categoria":
+            {
+              "id": "RECIBO1",
+              "nombre":"Recibo"
+            },
+          "nombre": "Recibo_Agromalargue_202008",
+          "formato": "PDF",
+          "fecha_carga": "08/09/2020",
+          "url_archivo": "asdasdasdasd"
+        },
+        {
+          "id": 123,
+          "carga_outsourcing": true,
+          "eliminable": false,
+          "categoria":
+            {
+              "id": "RECIBO2",
+              "nombre":"Recibo"
+            },
+          "nombre": "Recibo_Agromalargue_202008",
+          "formato": "PDF",
+          "fecha_carga": "08/09/2020",
+          "url_archivo": "asdasdasdasd"
+        },
+        {
+          "id": 123,
+          "carga_outsourcing": true,
+          "eliminable": false,
+          "categoria":
+            {
+              "id": "RECIBO3",
+              "nombre":"Recibo"
+            },
+          "nombre": "Recibo_Agromalargue_202008",
+          "formato": "PDF",
+          "fecha_carga": "08/09/2020",
+          "url_archivo": "asdasdasdasd"
+        },
+        {
+          "id": 123,
+          "carga_outsourcing": true,
+          "eliminable": false,
+          "categoria":
+            {
+              "id": "LIBROS_SUELDOS1",
+              "nombre":"Libros sueldos"
+            },
+          "nombre": "Lib_sueldo_Agromalargue_202008",
+          "formato": "PDF",
+          "fecha_carga": "08/09/2020",
+          "url_archivo": "asdasdasdasd"
+        },
+        {
+          "id": 123,
+          "carga_outsourcing": true,
+          "eliminable": false,
+          "categoria":
+            {
+              "id": "LIBROS_SUELDOS3",
+              "nombre":"Libros sueldos"
+            },
+          "nombre": "Lib_sueldo_Agromalargue_202008",
+          "formato": "PDF",
+          "fecha_carga": "08/09/2020",
+          "url_archivo": "asdasdasdasd"
+        },
+        {
+          "id": 123,
+          "carga_outsourcing": true,
+          "eliminable": false,
+          "categoria":
+            {
+              "id": "SAC1",
+              "nombre":"SAC"
+            },
+          "nombre": "SAC_Agromalargue_202008",
+          "formato": "PDF",
+          "fecha_carga": "08/09/2020",
+          "url_archivo": "asdasdasdasd"
+        },
+        {
+          "id": 123,
+          "carga_outsourcing": true,
+          "eliminable": false,
+          "categoria":
+            {
+              "id": "SAC2",
+              "nombre":"SAC"
+            },
+          "nombre": "SAC_Agromalargue_202008",
+          "formato": "PDF",
+          "fecha_carga": "08/09/2020",
+          "url_archivo": "asdasdasdasd"
+        },
+        {
+          "id": 123,
+          "carga_outsourcing": true,
+          "eliminable": false,
+          "categoria":
+            {
+              "id": "LIQUIDACION_FINAL2",
+              "nombre":"Liquidación final"
+            },
+          "nombre": "Liq_Final_Agromalargue_202008",
+          "formato": "PDF",
+          "fecha_carga": "08/09/2020",
+          "url_archivo": "asdasdasdasd"
+        },
+        {
+          "id": 123,
+          "carga_outsourcing": true,
+          "eliminable": false,
+          "categoria":
+            {
+              "id": "LIQUIDACION_FINAL3",
+              "nombre":"Liquidación final"
+            },
+          "nombre": "Liq_Final_Agromalargue_202008",
+          "formato": "PDF",
+          "fecha_carga": "08/09/2020",
+          "url_archivo": "asdasdasdasd"
+        },
+        {
+          "id": 123,
+          "carga_outsourcing": true,
+          "eliminable": false,
+          "categoria":
+            {
+              "id": "F931",
+              "nombre":"F931"
+            },
+          "nombre": "F931_Agromalargue_202008",
+          "formato": "PDF",
+          "fecha_carga": "08/09/2020",
+          "url_archivo": "asdasdasdasd"
+        },
+        {
+          "id": 123,
+          "carga_outsourcing": true,
+          "eliminable": false,
+          "categoria":
+            {
+              "id": "NOMINAAFIP",
+              "nombre":"Nómina AFIP"
+            },
+          "nombre": "Nomina_AFIP_Agromalargue_202008",
+          "formato": "PDF",
+          "fecha_carga": "08/09/2020",
+          "url_archivo": "asdasdasdasd"
+        },
+        {
+          "id": 123,
+          "carga_outsourcing": true,
+          "eliminable": false,
+          "categoria":
+            {
+              "id": "SICORE",
+              "nombre":"SICORE"
+            },
+          "nombre": "SICORE_Agromalargue_202008",
+          "formato": "PDF",
+          "fecha_carga": "08/09/2020",
+          "url_archivo": "asdasdasdasd"
+        },
+        {
+          "id": 123,
+          "carga_outsourcing": true,
+          "eliminable": false,
+          "categoria":
+            {
+              "id": "SINDICATOS",
+              "nombre":"Sindicatos"
+            },
+          "nombre": "Sindicatos_Agromalargue_202008",
+          "formato": "PDF",
+          "fecha_carga": "08/09/2020",
+          "url_archivo": "asdasdasdasd"
+        },
+        {
+          "id": 123,
+          "carga_outsourcing": true,
+          "eliminable": false,
+          "categoria":
+            {
+              "id": "DJNR",
+              "nombre":"DJNR"
+            },
+          "nombre": "DJNR_Agromalargue_202008",
+          "formato": "PDF",
+          "fecha_carga": "08/09/2020",
+          "url_archivo": "asdasdasdasd"
+        },
+        {
+          "id": 123,
+          "carga_outsourcing": true,
+          "eliminable": false,
+          "categoria":
+            {
+              "id": "OTROS",
+              "nombre":"Otros"
+            },
+          "nombre": "Otros_Agromalargue_202008",
+          "formato": "PDF",
+          "fecha_carga": "08/09/2020",
+          "url_archivo": "asdasdasdasd"
+        }
+      ]
+  },
+  {
+    "selecionado": false,
+    "fechaVencimiento": "01/09/2020",
+    "nombre": "AB Ingeniería S.H.",
+    "obligacion": "DDJJ Conceptos no rem.",
+    "estado": "Vencido",
+    "novedades": "01/09/2020",
+    "preLiq": "01/09/2020",
+    "envioPreLiq": "01/09/2020",
+    "confirmacion": "01/09/2020",
+    "liqDefinitiva": true,
+    "cumplido": true,
+    "documentos": []
+  },
+  {
+    "selecionado": false,
+    "fechaVencimiento": "01/09/2020",
+    "nombre": "AB Ingeniería S.H.",
+    "obligacion": "DDJJ Mensual (F931)",
+    "estado": "A vencer",
+    "novedades": "01/09/2020",
+    "preLiq": "01/09/2020",
+    "envioPreLiq": "01/09/2020",
+    "confirmacion": "01/09/2020",
+    "liqDefinitiva": true,
+    "cumplido": true,
+    "documentos": []
+  },
+  {
+    "selecionado": false,
+    "fechaVencimiento": "01/09/2020",
+    "nombre": "ACROS Training S.A.",
+    "obligacion": "DDJJ Conceptos no rem.",
+    "estado": "Vencido",
+    "novedades": "01/09/2020",
+    "preLiq": "01/09/2020",
+    "envioPreLiq": "01/09/2020",
+    "confirmacion": "01/09/2020",
+    "liqDefinitiva": true,
+    "cumplido": true,
+    "documentos": []
+  },
+  {
+    "selecionado": false,
+    "fechaVencimiento": "01/09/2020",
+    "nombre": "ACROS Training S.A.",
+    "obligacion": "DDJJ Mensual (F931)",
+    "estado": "Cumplido",
+    "novedades": "01/09/2020",
+    "preLiq": "01/09/2020",
+    "envioPreLiq": "01/09/2020",
+    "confirmacion": "01/09/2020",
+    "liqDefinitiva": true,
+    "cumplido": true,
+    "documentos": []
+  },
+  {
+    "selecionado": false,
+    "fechaVencimiento": "01/09/2020",
+    "nombre": "Adhepel S.A.",
+    "obligacion": "DDJJ Conceptos no rem.",
+    "estado": "Cumplido",
+    "novedades": "01/09/2020",
+    "preLiq": "01/09/2020",
+    "envioPreLiq": "01/09/2020",
+    "confirmacion": "01/09/2020",
+    "liqDefinitiva": true,
+    "cumplido": true,
+    "documentos": []
+  },
+  {
+    "selecionado": false,
+    "fechaVencimiento": "01/09/2020",
+    "nombre": "Adhepel S.A.",
+    "obligacion": "DDJJ Mensual (F931)",
+    "estado": "A vencer",
+    "novedades": "01/09/2020",
+    "preLiq": "01/09/2020",
+    "envioPreLiq": "01/09/2020",
+    "confirmacion": "01/09/2020",
+    "liqDefinitiva": true,
+    "cumplido": true,
+    "documentos": []
+  },
+  {
+    "selecionado": false,
+    "fechaVencimiento": "01/09/2020",
+    "nombre": "Agrocamp S.R.L.",
+    "obligacion": "DDJJ Conceptos no rem.",
+    "estado": "Cumplido",
+    "novedades": "01/09/2020",
+    "preLiq": "01/09/2020",
+    "envioPreLiq": "01/09/2020",
+    "confirmacion": "01/09/2020",
+    "liqDefinitiva": true,
+    "cumplido": true,
+    "documentos": []
+  },
+  {
+    "selecionado": false,
+    "fechaVencimiento": "01/09/2020",
+    "nombre": "Agrocamp S.R.L.",
+    "obligacion": "DDJJ Mensual (F931)",
+    "estado": "Vencido",
+    "novedades": "01/09/2020",
+    "preLiq": "01/09/2020",
+    "envioPreLiq": "01/09/2020",
+    "confirmacion": "01/09/2020",
+    "liqDefinitiva": true,
+    "cumplido": true,
+    "documentos": []
+  },
+  {
+    "selecionado": false,
+    "fechaVencimiento": "01/09/2020",
+    "nombre": "Aleph S.A.",
+    "obligacion": "DDJJ Conceptos no rem.",
+    "estado": "A vencer",
+    "novedades": "01/09/2020",
+    "preLiq": "01/09/2020",
+    "envioPreLiq": "01/09/2020",
+    "confirmacion": "01/09/2020",
+    "liqDefinitiva": true,
+    "cumplido": true,
+    "documentos": []
+  }
+]
